@@ -29,6 +29,8 @@ Practice Git repository diagnosis, branch workflow cleanup, pull request discipl
    npm start
    ```
 
+The application listens on port `3000` by default. Set `PORT` in the environment to use a different port.
+
 ## Investigation Commands
 
 Use these commands to inspect the repository and workflow:
